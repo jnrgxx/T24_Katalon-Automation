@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Passbook_Issuing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22989767-70a4-44cd-a9ea-a27310184bcd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bbd5c0dc-21b9-45d7-aa91-ad308dc74891</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f0daa9f-ed11-4372-a085-4f12345a8099</id>
+      <masked>false</masked>
+      <name>PSBK_DEVICEID</name>
+   </variable>
+</TestCaseEntity>

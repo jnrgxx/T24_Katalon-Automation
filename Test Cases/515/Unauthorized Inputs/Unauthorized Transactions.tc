@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unauthorized Transactions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c73cadfe-421d-44e9-9eff-cc87e801fe0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3789a9ce-28d1-4aac-8b28-726bd83ad6a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bcbf45f-b29d-44e4-8acb-d02bc8ce3d77</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eca5b744-fd05-4920-896f-61c1bbca23d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3789a9ce-28d1-4aac-8b28-726bd83ad6a7</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bcbf45f-b29d-44e4-8acb-d02bc8ce3d77</id>
+      <masked>false</masked>
+      <name>AMOUNT</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unauth-Locked Funds'</defaultValue>
+      <description></description>
+      <id>eca5b744-fd05-4920-896f-61c1bbca23d0</id>
+      <masked>false</masked>
+      <name>TABS</name>
+   </variable>
+</TestCaseEntity>

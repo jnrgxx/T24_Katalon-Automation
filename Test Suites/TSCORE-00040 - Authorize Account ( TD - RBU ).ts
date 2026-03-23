@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSCORE-00040 - Authorize Account ( TD - RBU )</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>264d6f15-ed08-430a-bc85-37d73710ac63</testSuiteGuid>
+   <testCaseLink>
+      <guid>6fab5e15-9cfa-4203-848c-422d1f9761b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9707b92d-19a2-4ab4-a158-62c5877e1cf7</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>6</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9707b92d-19a2-4ab4-a158-62c5877e1cf7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9707b92d-19a2-4ab4-a158-62c5877e1cf7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9707b92d-19a2-4ab4-a158-62c5877e1cf7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>T24URL</value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8c42176d-3779-443c-9b9d-39b1a2619c62</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>22369c58-dc08-461b-9670-bc8a5087ed6b</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Select Branch</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>22369c58-dc08-461b-9670-bc8a5087ed6b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BRANCH</value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9628a158-3691-4740-8eb8-a890fa8d450b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Input_Command_Value</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a0f16d66-b0c0-4ef6-a9fa-210898f82f91</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>5-5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Input Command Value</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a0f16d66-b0c0-4ef6-a9fa-210898f82f91</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HMM</value>
+         <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b4b1816f-6c39-42d5-8e0b-f3bb0a49553a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/515/TC_Service_Manager</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0efb041a-0688-404b-9e85-d0b7a9eea1b2</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Menu - Service Manager</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0efb041a-0688-404b-9e85-d0b7a9eea1b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MANAGER_MENU</value>
+         <variableId>daabaa8e-adfd-4cd4-b718-3c20bdc0d2a1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0efb041a-0688-404b-9e85-d0b7a9eea1b2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MANAGER_SUB_MENU</value>
+         <variableId>bf2021ef-34e0-4017-babe-e606a438d745</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e70fb57b-c004-4c83-93b7-95bbb68fe75a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/515/Account and Deposit/TC_Authorize</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a9106793-4038-49c9-a73b-a56d85a44afb</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-12</value>
+         </iterationEntity>
+         <testDataId>Data Files/Authorize Deposit</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a9106793-4038-49c9-a73b-a56d85a44afb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIF</value>
+         <variableId>0a4d33dc-d6d3-4704-9882-6df7a70ca8e0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a9106793-4038-49c9-a73b-a56d85a44afb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ACCOUNT_NUMBER </value>
+         <variableId>6b0ceecf-02f2-4204-9ba7-a8bcbd91b8cf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>24a9c273-31b0-4ab3-b61f-10751d16bbd6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e7bd3865-ceac-4142-a706-aa9887e5ce57</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/515/TC_Account Verification</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>49c8e5ea-1b74-4b7f-947a-335c72c9fde9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/515/TC_AA ARRANGEMENT ACTIVITY S Deposits</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0ab157a2-9f32-46cd-9d2f-0f73e706cce3</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>11-20</value>
+         </iterationEntity>
+         <testDataId>Data Files/Authorize Deposit</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e54687d3-3289-41d8-ab47-cb470797ceae</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0ab157a2-9f32-46cd-9d2f-0f73e706cce3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ARRANGEMENT_ACTIVITY</value>
+         <variableId>82d98e42-d70b-46e8-a961-7532428ca5e6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>eb6ca5be-f627-4f46-837f-6e29916a8120</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Signoff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

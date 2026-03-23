@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSCORE-00028 - ACCOUNT S ( PESO CHECKING IN RBU )</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f5e094bc-4580-4f3c-af83-613572a14b91</testSuiteGuid>
+   <testCaseLink>
+      <guid>6fea4bf8-8a77-4c41-823f-623c2555cc8a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>38451fab-0f00-4624-b9c7-65d41c4b8155</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>38451fab-0f00-4624-b9c7-65d41c4b8155</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>38451fab-0f00-4624-b9c7-65d41c4b8155</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>38451fab-0f00-4624-b9c7-65d41c4b8155</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>T24URL</value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e5e710b4-cc38-4c0b-b72d-d606f495fd5e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1d716390-5ac2-4fcd-b523-558030f1f8a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/515/Customer/TC_ACCOUNT S</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>983df5f2-e97f-462f-8b57-b7b2ac4d3ce6</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Passbook Printing</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>91c446ab-cb07-4690-8414-d5b21cfe81f6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>983df5f2-e97f-462f-8b57-b7b2ac4d3ce6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ACCOUNT_NUMBER</value>
+         <variableId>e5ae9a25-da1a-4d93-ba3b-16cba06739ea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21f5a2e6-8114-457a-9780-86755e8dbf8c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Signoff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

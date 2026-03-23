@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Prepaid Card input Legacy ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33dfd64d-8122-4aab-9551-a3b2630ca159</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e838f28-d08c-4d2c-8ded-438fdba8d839</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8eccdf31-16c7-4c70-bc04-a1d4d237ba2b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03be25c1-8388-4b2c-a5c5-efe7557651a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e838f28-d08c-4d2c-8ded-438fdba8d839</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8eccdf31-16c7-4c70-bc04-a1d4d237ba2b</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03be25c1-8388-4b2c-a5c5-efe7557651a0</id>
+      <masked>false</masked>
+      <name>LEGACY_ID</name>
+   </variable>
+</TestCaseEntity>

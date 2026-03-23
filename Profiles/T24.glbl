@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>T24</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\JCG65808\\Documents\\2022\\AUTOMATION\\DXP\\Customer Creation IND.xlsx'</initValue>
+      <name>PATH</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

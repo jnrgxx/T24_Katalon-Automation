@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RECEIVEDNOT RECEIVED_1</name>
+   <tag></tag>
+   <elementGuidId>a84330d3-6d8d-432f-b02b-c5edde8aadd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[2]/td[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>865cdf51-1682-4a52-b6fc-340ac6592b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warningbox</value>
+      <webElementGuid>6dc59f24-277a-41d5-93f8-839380a018c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2b736a9d-70ed-4abf-b140-80c6815d3031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390</value>
+      <webElementGuid>8f79c58a-20df-41e6-b16d-bb581d907864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390</value>
+      <webElementGuid>fd47bb47-970f-45dc-916e-1917ce727ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>warningid</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>9a616f37-9d14-4a27-8ae6-f422e6edddcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:changeWarning('warningCaption:Have you received Acceptable ID.2/CUS*100 from 5179390', 'warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390')</value>
+      <webElementGuid>dcba3fb7-f894-41af-82fc-ad9a35af1ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECEIVEDNOT RECEIVED</value>
+      <webElementGuid>2dd6ff64-eaed-4f55-8172-68c6a9192e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390&quot;)</value>
+      <webElementGuid>8fc2f2ad-f5d4-4393-8646-c2ac7620d414</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[2]/td[3]/select</value>
+      <webElementGuid>245c3d00-16f3-4a28-a3e5-fde6e74fe497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390']</value>
+      <webElementGuid>46cf25fa-4227-4d0a-8eae-1e2881dfe5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Acceptable ID.2/CUS*100 from 5179390'])[1]/following::select[1]</value>
+      <webElementGuid>5d11a51c-036c-427a-8438-0cc6f876c9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Acceptable ID.1/CUS*100 from 5179390'])[1]/following::select[2]</value>
+      <webElementGuid>4e6b59c0-6f13-4ffd-9d7e-3b096d54489b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept Overrides'])[1]/preceding::select[1]</value>
+      <webElementGuid>1ca0120d-de31-41af-be92-3d049df874c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Did you conduct customer screening against the negative watch-list database in Base60 AML System?'])[1]/preceding::select[1]</value>
+      <webElementGuid>461216ad-8a6b-42d4-be10-99ed97a670e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/select</value>
+      <webElementGuid>d09ba6b4-6aed-447b-b125-e7d811402389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390' and @id = 'warningChooser:Have you received Acceptable ID.2/CUS*100 from 5179390' and (text() = 'RECEIVEDNOT RECEIVED' or . = 'RECEIVEDNOT RECEIVED')]</value>
+      <webElementGuid>cf4d65c6-ec83-4bbf-b9e1-e6e254f6fd65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

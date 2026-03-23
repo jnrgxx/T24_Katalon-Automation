@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>82587658-f4a7-4fd2-938b-a9de500d28b0</dataFileGUID>
+   <dataSourceUrl>C:\Users\HAA83118\Desktop\T24\(BAU) T24 Regression Testing w KOMO USD 1 (2)\(BAU) T24 Regression Testing w KOMO USD\Test Data\T24 Creation.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet2</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

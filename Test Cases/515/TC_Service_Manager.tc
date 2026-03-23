@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Service_Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7428eeb0-3a6d-4a0e-afd1-b549800ce331</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>15b33459-03dc-404e-b76d-16a6d31d5cca</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Menu - Service Manager</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>15b33459-03dc-404e-b76d-16a6d31d5cca</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MANAGER_MENU</value>
+      <variableId>daabaa8e-adfd-4cd4-b718-3c20bdc0d2a1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>15b33459-03dc-404e-b76d-16a6d31d5cca</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MANAGER_SUB_MENU</value>
+      <variableId>bf2021ef-34e0-4017-babe-e606a438d745</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>daabaa8e-adfd-4cd4-b718-3c20bdc0d2a1</id>
+      <masked>false</masked>
+      <name>MANAGER_MENU</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf2021ef-34e0-4017-babe-e606a438d745</id>
+      <masked>false</masked>
+      <name>MANAGER_SUB_MENU</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unauth-Locked Funds</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00215db6-5137-4f50-b960-eab4fcf1ee3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01f1895e-b4c1-4be5-a77c-41e53f47579c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5e53443-25fe-45d2-8c6e-0fcd0a56655c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1144805c-5670-4b7b-b091-d62030f263d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01f1895e-b4c1-4be5-a77c-41e53f47579c</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5e53443-25fe-45d2-8c6e-0fcd0a56655c</id>
+      <masked>false</masked>
+      <name>LOCK_AMOUNT</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unauth-Locked Funds'</defaultValue>
+      <description></description>
+      <id>1144805c-5670-4b7b-b091-d62030f263d0</id>
+      <masked>false</masked>
+      <name>TAB</name>
+   </variable>
+</TestCaseEntity>

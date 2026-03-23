@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Teller_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc9cbae7-5a2d-4eb4-9819-c6739278fd6c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a19d4f21-3c63-4c0d-81ca-de1e50cbcc70</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>4</value>
+      </iterationEntity>
+      <testDataId>Data Files/Menu - Teller</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a19d4f21-3c63-4c0d-81ca-de1e50cbcc70</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>TELLER_MENU</value>
+      <variableId>94aadf10-cca9-42ec-97d5-1c4a0feb2b5f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a19d4f21-3c63-4c0d-81ca-de1e50cbcc70</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>TELLER_SUB_MENU</value>
+      <variableId>fa1d4709-a3d0-4025-8f29-9a2f77908748</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94aadf10-cca9-42ec-97d5-1c4a0feb2b5f</id>
+      <masked>false</masked>
+      <name>TELLER_MENU</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa1d4709-a3d0-4025-8f29-9a2f77908748</id>
+      <masked>false</masked>
+      <name>TELLER_SUB_MENU</name>
+   </variable>
+</TestCaseEntity>

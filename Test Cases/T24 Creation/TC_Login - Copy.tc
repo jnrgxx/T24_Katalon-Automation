@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b2936fe-ecf0-4df2-8c83-21dc74eca2c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>483714ae-8533-49d2-88de-3ed1bb0629f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5519d417-ba1a-42de-963c-8d2d37075932</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7eb24ba-86e5-42d1-ac57-e177888e0812</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>483714ae-8533-49d2-88de-3ed1bb0629f2</id>
+      <masked>false</masked>
+      <name>USER_INPUT</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5519d417-ba1a-42de-963c-8d2d37075932</id>
+      <masked>false</masked>
+      <name>PASS_INPUT</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7eb24ba-86e5-42d1-ac57-e177888e0812</id>
+      <masked>false</masked>
+      <name>T24URL</name>
+   </variable>
+</TestCaseEntity>

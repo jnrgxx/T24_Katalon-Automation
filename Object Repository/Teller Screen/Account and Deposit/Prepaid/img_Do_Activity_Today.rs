@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Do_Activity_Today</name>
+   <tag></tag>
+   <elementGuidId>f06f5124-3ccb-4432-8154-4b895adce101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[12]/td[3]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#r12_workarea100264312301 > td.enqdrilldowncell.enqdrilldowncell_AADETAILSNEWACTIVITIES > a[title=&quot;Do Activity Today&quot;] > img[alt=&quot;Do Activity Today&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a80fe73e-015a-4a41-a241-31191bbe2a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../plaf/images/default/enquiry/drilldown/execute.gif</value>
+      <webElementGuid>bb29f5d9-b6c7-41ad-8c97-b35f6a691e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Do Activity Today</value>
+      <webElementGuid>44112511-1361-459b-8379-eb3805d21132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Do Activity Today</value>
+      <webElementGuid>2cadb2d0-aa55-4cf7-a630-04b0e347fce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;r12_workarea100264312301&quot;)/td[@class=&quot;enqdrilldowncell enqdrilldowncell_AADETAILSNEWACTIVITIES&quot;]/a[1]/img[1]</value>
+      <webElementGuid>5311c261-ffbf-4b0b-8839-dd775fbe3d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='r12_workarea100264312301']/td[3]/a/img</value>
+      <webElementGuid>33254ebe-76e6-482e-90ac-9d9fb963a096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Do Activity Today'])[12]</value>
+      <webElementGuid>4684b04c-dc3e-4df0-aae8-4851e872da23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[3]/a/img</value>
+      <webElementGuid>a8cca351-d9d4-4269-afb5-363c20ec9aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../plaf/images/default/enquiry/drilldown/execute.gif' and @alt = 'Do Activity Today' and @title = 'Do Activity Today']</value>
+      <webElementGuid>be5fea4d-eab9-409a-95d3-476a5702b192</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

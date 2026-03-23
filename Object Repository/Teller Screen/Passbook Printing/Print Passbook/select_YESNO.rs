@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_YESNO</name>
+   <tag></tag>
+   <elementGuidId>6f5b2a4e-3059-4826-955a-5c6bf8eb5ac4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='warningChooser:Passbook Printed OK?']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ed9d484d-0386-4e91-abb7-3b6cc725bde4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warningbox</value>
+      <webElementGuid>5ff9fe87-8206-4618-a484-453851643a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>22152470-482d-4703-a189-6de01a54be83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>warningChooser:Passbook Printed OK?</value>
+      <webElementGuid>6dc08d03-cef7-4541-97d2-899527a3fa58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warningChooser:Passbook Printed OK?</value>
+      <webElementGuid>d945297f-a581-4da2-8a03-261ac061e8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>warningid</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>e8ed3740-fb19-47cb-8730-26e678239316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:changeWarning('warningCaption:Passbook Printed OK?', 'warningChooser:Passbook Printed OK?')</value>
+      <webElementGuid>7011febf-8b94-48c9-a6d4-feaa2c4162a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YESNO</value>
+      <webElementGuid>30d2d414-a068-42ba-844b-335a8c8c1fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warningChooser:Passbook Printed OK?&quot;)</value>
+      <webElementGuid>e23ceb5b-9584-4c6a-b414-69e5fb6d10ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr/td[3]/select</value>
+      <webElementGuid>4c61aee5-bb62-41d3-a834-4aa260004509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='warningChooser:Passbook Printed OK?']</value>
+      <webElementGuid>9c782866-84a9-4556-999e-85bd63aedbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passbook Printed OK?'])[1]/following::select[1]</value>
+      <webElementGuid>2b2d6418-fbfe-4809-a571-1387a352e2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Balance: 0'])[1]/following::select[1]</value>
+      <webElementGuid>d0406459-9a75-4df9-a32b-8a828b2757ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passbook Printing'])[2]/preceding::select[1]</value>
+      <webElementGuid>8c030f1f-d690-4520-9cd6-e191a356bda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passbook Print'])[1]/preceding::select[1]</value>
+      <webElementGuid>9b8867ba-bf6b-409c-a35d-c8591952940b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/select</value>
+      <webElementGuid>0c016670-6813-4c86-8467-456b4788ee21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'warningChooser:Passbook Printed OK?' and @id = 'warningChooser:Passbook Printed OK?' and (text() = 'YESNO' or . = 'YESNO')]</value>
+      <webElementGuid>2f7b9c4d-bb8f-4943-bb35-65c999cc0d3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Z - TILL OPEN</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b9069d98-9026-48f0-ba00-fd12b83d8ef9</testSuiteGuid>
+   <testCaseLink>
+      <guid>2938c283-94c6-4922-8b34-4bece34cf72e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c92d147a-0141-4a4d-a726-f8375a0750bc</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>15</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c92d147a-0141-4a4d-a726-f8375a0750bc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c92d147a-0141-4a4d-a726-f8375a0750bc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c92d147a-0141-4a4d-a726-f8375a0750bc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>T24URL</value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>73d8c8d1-99df-4bc0-9543-979c256187fe</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a6124cba-dcf8-4e3b-bf1f-8988b5f2ce12</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Select Branch</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a6124cba-dcf8-4e3b-bf1f-8988b5f2ce12</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BRANCH</value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cb30371d-b091-44b2-bb54-abd968441861</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Input_Command_Value</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d5b2a0ba-2170-4f3b-8ead-b65d5ebdba3f</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Input Command Value</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d5b2a0ba-2170-4f3b-8ead-b65d5ebdba3f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HMM</value>
+         <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a411bf7-43e6-481c-9f98-38e6d863bf6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TILL OPEN/Till Open Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>20d82563-07b8-4922-a4f0-e1a80c77d4b1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/T24 Creation/Till Open - Till ID</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fae38a3b-ef8f-4b1c-b72f-7dc3f283b4c7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/T24 Creation/Till Open - User</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>20d82563-07b8-4922-a4f0-e1a80c77d4b1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TILL_ID</value>
+         <variableId>50455f0d-872a-4d37-8205-829954bcee40</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fae38a3b-ef8f-4b1c-b72f-7dc3f283b4c7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USER_ID</value>
+         <variableId>31f3349e-f868-4b15-81df-d1c339341667</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c07e381b-bd0c-4f88-a3a8-7d2ea550be96</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Signoff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

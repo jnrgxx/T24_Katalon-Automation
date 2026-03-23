@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Peso Cash Deposit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f540b66c-d922-4aab-bb33-6d84a1abce58</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>f737eca9-e092-4f19-bcc0-e4c21b2670ac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>91a86337-814f-4cf2-951a-b120cb63b8ce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f737eca9-e092-4f19-bcc0-e4c21b2670ac</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91a86337-814f-4cf2-951a-b120cb63b8ce</id>
+      <masked>false</masked>
+      <name>AMOUNT</name>
+   </variable>
+</TestCaseEntity>

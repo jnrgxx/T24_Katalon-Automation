@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Till Open Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff6ebecf-f8d7-4ef2-a952-d7929a1d7890</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50455f0d-872a-4d37-8205-829954bcee40</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31f3349e-f868-4b15-81df-d1c339341667</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50455f0d-872a-4d37-8205-829954bcee40</id>
+      <masked>false</masked>
+      <name>TILL_ID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31f3349e-f868-4b15-81df-d1c339341667</id>
+      <masked>false</masked>
+      <name>USER_ID</name>
+   </variable>
+</TestCaseEntity>

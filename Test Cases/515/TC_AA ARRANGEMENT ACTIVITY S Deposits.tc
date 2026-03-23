@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AA ARRANGEMENT ACTIVITY S Deposits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52190b34-9b0f-468e-96b1-743c97ee1b93</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>92cc944a-c4d8-431f-bf11-5d5b46cd32e4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Authorize Deposit</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e54687d3-3289-41d8-ab47-cb470797ceae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>92cc944a-c4d8-431f-bf11-5d5b46cd32e4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ARRANGEMENT_ACTIVITY</value>
+      <variableId>82d98e42-d70b-46e8-a961-7532428ca5e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'AA.ARRANGEMENT.ACTIVITY S '</defaultValue>
+      <description></description>
+      <id>e54687d3-3289-41d8-ab47-cb470797ceae</id>
+      <masked>false</masked>
+      <name>INPUT_COMMAND_LINE</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82d98e42-d70b-46e8-a961-7532428ca5e6</id>
+      <masked>false</masked>
+      <name>ARRANGEMENT_ACTIVITY</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputTerm</name>
+   <tag></tag>
+   <elementGuidId>96cf21f2-8b21-4d5d-839b-6ceefe9ceb24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'fieldName:TERM']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id = 'fieldName:TERM']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fe958173-a42a-4232-b54b-849d505fdf8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='fieldName:TERM']</value>
+      <webElementGuid>704912d7-76f0-4dc4-9fbf-a68ee61d011f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fieldName:TERM</value>
+      <webElementGuid>dd5c0761-79f1-41e0-90e9-426eda369c48</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

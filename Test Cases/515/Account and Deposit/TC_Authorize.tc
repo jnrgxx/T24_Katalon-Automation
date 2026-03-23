@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Authorize</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a122ed78-e598-4c7d-98d0-7f1762b774bd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a4d33dc-d6d3-4704-9882-6df7a70ca8e0</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b0ceecf-02f2-4204-9ba7-a8bcbd91b8cf</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unauthorised'</defaultValue>
+      <description></description>
+      <id>24a9c273-31b0-4ab3-b61f-10751d16bbd6</id>
+      <masked>false</masked>
+      <name>TAB</name>
+   </variable>
+</TestCaseEntity>

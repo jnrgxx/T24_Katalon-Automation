@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accept Overrides</name>
+   <tag></tag>
+   <elementGuidId>c28c15a6-d760-4c18-8094-d2ccd6ffe2f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Accept Overrides')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.textbtn > #errorImg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d291fcdd-e342-4c6f-b123-713347fbe72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:commitOverrides()</value>
+      <webElementGuid>1813eb2e-376b-45a2-99ae-583f0a49efd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8e8f2ca1-dc02-4a9b-b4b0-ca23748f09ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>errorImg</value>
+      <webElementGuid>a693d967-aa0f-438d-b295-77ef94245454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept Overrides</value>
+      <webElementGuid>44c7da97-3e4f-4094-a7ae-0c5950127a27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error_box&quot;)/table[1]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;textbtn&quot;]/a[@id=&quot;errorImg&quot;]</value>
+      <webElementGuid>ebcbb090-09dc-40fa-bd86-e536a8e29dfa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr[4]/td/table/tbody/tr/td/a</value>
+      <webElementGuid>13c918bc-2220-498e-8108-f1bfc4185e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='errorImg']</value>
+      <webElementGuid>735b5ceb-a17d-4a57-877f-60e6067490a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Accept Overrides')]</value>
+      <webElementGuid>383823ac-d55b-4b20-a352-3546afdd3fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Acceptable ID.2/CUS*100 from 5179390'])[1]/following::a[1]</value>
+      <webElementGuid>907a62af-76d6-4710-9d28-1cbfac1ca174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Acceptable ID.1/CUS*100 from 5179390'])[1]/following::a[1]</value>
+      <webElementGuid>a791354b-a231-4ec0-907c-d6e591bb23f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Did you conduct customer screening against the negative watch-list database in Base60 AML System?'])[1]/preceding::a[1]</value>
+      <webElementGuid>6613080c-3a78-47d5-b357-c008e390ba50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/preceding::a[1]</value>
+      <webElementGuid>83a5deb4-6356-44b1-8659-a30b7fbc9fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept Overrides']/parent::*</value>
+      <webElementGuid>23759bea-8145-4910-9038-0aaacfb7d04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:commitOverrides()')]</value>
+      <webElementGuid>5c246b60-ca85-4159-9c49-796df99a5b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/table/tbody/tr/td/a</value>
+      <webElementGuid>5d1cc336-bfbd-4938-bdef-f680a6926a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:commitOverrides()' and @id = 'errorImg' and (text() = 'Accept Overrides' or . = 'Accept Overrides')]</value>
+      <webElementGuid>49fce915-5fae-4c90-bd0f-8dbff689541d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

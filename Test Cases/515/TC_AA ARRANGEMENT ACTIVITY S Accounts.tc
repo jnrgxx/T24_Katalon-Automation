@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AA ARRANGEMENT ACTIVITY S Accounts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfdc63ff-c877-4ebf-80a7-be2a1395cc40</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>92cc944a-c4d8-431f-bf11-5d5b46cd32e4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Authorize Account</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>169a1701-68ef-4cf2-b6b7-fb16c14b5b78</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>f5a6ea3f-129e-4c4e-8244-4994718310de</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'AA.ARRANGEMENT.ACTIVITY S '</defaultValue>
+      <description></description>
+      <id>169a1701-68ef-4cf2-b6b7-fb16c14b5b78</id>
+      <masked>false</masked>
+      <name>INPUT_COMMAND_LINE</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f5a6ea3f-129e-4c4e-8244-4994718310de</id>
+      <masked>false</masked>
+      <name>ARRANGEMENT_ACTIVITY</name>
+   </variable>
+</TestCaseEntity>

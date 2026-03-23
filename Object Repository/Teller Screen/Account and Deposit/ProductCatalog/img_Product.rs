@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_product</name>
+   <tag></tag>
+   <elementGuidId>ba573378-5bfa-44b8-9b87-4fcffa07d73c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr/td[text()=&quot;${product}&quot;]/ancestor::node()[1]/td/a/img[@src=&quot;../plaf/images/default/enquiry/drilldown/new.gif&quot; and @alt=&quot;New Arrangement&quot; and @title=&quot;New Arrangement&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src = '../plaf/images/default/enquiry/drilldown/new.gif' and @ref_element = 'Object Repository/4_Teller Screen/Account and Deposit/ProductCatalog/frame_Products']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9da68b16-0908-4ebf-8986-ef31bc8b4a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr/td[text()=&quot;${product}&quot;]/ancestor::node()[1]/td/a/img[@src=&quot;../plaf/images/default/enquiry/drilldown/new.gif&quot;]</value>
+      <webElementGuid>a65cdcbb-c09e-47e1-a84f-4148bbeb9237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../plaf/images/default/enquiry/drilldown/new.gif</value>
+      <webElementGuid>455893d4-48c0-4557-b289-f14a6f7afd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_Products</value>
+      <webElementGuid>ab013288-114c-4f25-b3dd-89466e619437</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

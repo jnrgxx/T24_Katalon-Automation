@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ACCOUNT S</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2590ff9-7927-4970-96bc-b6acc375e7fa</testCaseGuid>
+   <variable>
+      <defaultValue>'ACCOUNT S '</defaultValue>
+      <description></description>
+      <id>91c446ab-cb07-4690-8414-d5b21cfe81f6</id>
+      <masked>false</masked>
+      <name>INPUT_COMMAND_LINE</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5ae9a25-da1a-4d93-ba3b-16cba06739ea</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+</TestCaseEntity>

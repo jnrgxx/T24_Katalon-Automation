@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Authorize or Delete Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9c1c43e-360b-4abe-83ab-7674d782d2cb</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0043c0b6-4a30-4bf4-874e-6a7ccc9c7fe0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Authorize Customer CORP</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0043c0b6-4a30-4bf4-874e-6a7ccc9c7fe0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>CIF</value>
+      <variableId>d0e2fb18-4623-442c-a3d0-895bb3ca9e08</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0e2fb18-4623-442c-a3d0-895bb3ca9e08</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+</TestCaseEntity>

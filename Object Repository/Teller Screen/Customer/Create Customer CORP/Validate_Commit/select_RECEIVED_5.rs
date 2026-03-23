@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RECEIVED_5</name>
+   <tag></tag>
+   <elementGuidId>ac3c8577-b4b1-4c77-ae0a-a48e8a7948ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[5]/td[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>15b5e230-9b57-4255-bdcd-8709055fd5eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warningbox</value>
+      <webElementGuid>3082d22a-fc0d-405d-9d8a-baeb2f45e75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>12af1bb9-e2aa-40ab-82c6-a5ed80f60645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Mayors Permit/CUS*105 from 6431030</value>
+      <webElementGuid>8c8964b7-c2ec-456c-943b-c940ed747301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Mayors Permit/CUS*105 from 6431030</value>
+      <webElementGuid>9c3f0ed4-52e2-45a3-81ef-98f63c74785c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>warningid</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>48de8139-c798-40df-90f7-9f01ad73474f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:changeWarning('warningCaption:Have you received Mayors Permit/CUS*105 from 6431030', 'warningChooser:Have you received Mayors Permit/CUS*105 from 6431030')</value>
+      <webElementGuid>90447049-769c-46de-8f03-aa9a392a919a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECEIVEDNOT RECEIVED</value>
+      <webElementGuid>022f76a1-b3da-45d2-8bfc-11e620613fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warningChooser:Have you received Mayors Permit/CUS*105 from 6431030&quot;)</value>
+      <webElementGuid>652a0832-293c-4401-88a4-17e6edf14fba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[5]/td[3]/select</value>
+      <webElementGuid>ba28b7d3-1107-4e77-8fdb-c8dc0c3f91f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='warningChooser:Have you received Mayors Permit/CUS*105 from 6431030']</value>
+      <webElementGuid>efd74bfa-221a-4866-89c8-b44ff494f7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Mayors Permit/CUS*105 from 6431030'])[1]/following::select[1]</value>
+      <webElementGuid>a3b8c24a-d992-4ea2-8fe8-d4bd4106c999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Application for Business/CUS*105 from 6431030'])[1]/following::select[2]</value>
+      <webElementGuid>7bc10ebe-7702-492c-b64a-6832ae759db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept Overrides'])[1]/preceding::select[1]</value>
+      <webElementGuid>b12597b7-3393-4f40-90dc-adf73bfde023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Did you conduct customer screening against the negative watch-list database in Base60 AML System?'])[1]/preceding::select[1]</value>
+      <webElementGuid>4922c912-28ac-4dc8-b140-4032731f8d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[3]/select</value>
+      <webElementGuid>20aa7b4e-75b9-49ee-9bab-943cb4e68218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'warningChooser:Have you received Mayors Permit/CUS*105 from 6431030' and @id = 'warningChooser:Have you received Mayors Permit/CUS*105 from 6431030' and (text() = 'RECEIVEDNOT RECEIVED' or . = 'RECEIVEDNOT RECEIVED')]</value>
+      <webElementGuid>da773664-6f40-4205-ae44-295100b96269</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

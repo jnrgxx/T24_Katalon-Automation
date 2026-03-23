@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Account Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bc8c1fc-f401-4ba6-a1e6-22feeae05239</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2271b20c-45c6-4314-a7c8-38b8261b55de</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Authorize Account</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

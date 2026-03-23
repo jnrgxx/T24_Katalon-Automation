@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_Province</name>
+   <tag></tag>
+   <elementGuidId>41a68638-194b-4bc9-a8e7-fd4e5caf7995</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[(text() = '
+Province
+' or . = '
+Province
+')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>7fe1ff9a-dacb-4654-a709-353603d86267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabid</name>
+      <type>Main</type>
+      <value>tab2</value>
+      <webElementGuid>fe44eea1-4ccd-4495-a9fa-0dee12ca5ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Province
+</value>
+      <webElementGuid>b29a7d59-35c8-49fe-8eb6-d8905c2fc23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab2&quot;)/tbody[1]/tr[4]</value>
+      <webElementGuid>89fb2ed9-3d55-44f8-85ef-de506a454540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tab2']/tbody/tr[4]</value>
+      <webElementGuid>c7c5d979-679e-49f6-b088-4de97353e831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='House/Unit No/Bldg Name/Subd Name'])[3]/following::tr[2]</value>
+      <webElementGuid>d3fcef77-a79d-4fd0-b055-d8515e519f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Local Address:'])[1]/following::tr[3]</value>
+      <webElementGuid>37005094-df57-4c1e-8a97-45fa2e8c7b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZIP Code'])[1]/preceding::tr[1]</value>
+      <webElementGuid>2805ffec-4c36-4073-a415-88812dae721a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr[4]</value>
+      <webElementGuid>e462aba2-86cf-4e9d-a4f3-730666dc4848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = '
+Province
+' or . = '
+Province
+')]</value>
+      <webElementGuid>23a5bb3e-26a7-42b4-976c-5641394cce0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

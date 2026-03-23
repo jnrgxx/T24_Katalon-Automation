@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Peso TD PayOut -Cash</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e00cb610-fe06-463a-b272-ebc47182a195</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d328a9d7-1022-4905-a3d1-639f779c4fe4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2e4d26d-9b4e-4099-a3d7-37231c17d358</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d328a9d7-1022-4905-a3d1-639f779c4fe4</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2e4d26d-9b4e-4099-a3d7-37231c17d358</id>
+      <masked>false</masked>
+      <name>AMOUNT</name>
+   </variable>
+</TestCaseEntity>

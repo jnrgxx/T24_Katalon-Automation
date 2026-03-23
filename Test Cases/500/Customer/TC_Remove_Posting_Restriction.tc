@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Remove_Posting_Restriction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e95e5302-77f2-44dc-aaca-70bfd863eb3b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf5e7a51-5b88-4f69-8e43-203ea9da0976</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63c234c2-ea31-4f12-9e14-95808fff2d27</id>
+      <masked>false</masked>
+      <name>RESTRICTION</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RECEIVED_4</name>
+   <tag></tag>
+   <elementGuidId>bc11aa2f-19ae-4b02-8f78-a98b5bd8bc20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[4]/td[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>353a649c-dbe5-4ef9-9998-0a4b1ef68af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warningbox</value>
+      <webElementGuid>6cf13fb1-f566-4707-a7db-bc633e0b0678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1e5e9307-5d22-47fa-95c3-3228f81a6a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Application for Business/CUS*105 from 6431030</value>
+      <webElementGuid>8d562901-c033-4b99-8a33-e22c0d5a96b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Application for Business/CUS*105 from 6431030</value>
+      <webElementGuid>3a50e5aa-9bdd-4dbb-9ea0-e825cdfd3ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>warningid</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>c491a533-c5b7-45b4-93e3-ad09ed9bc64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:changeWarning('warningCaption:Have you received Application for Business/CUS*105 from 6431030', 'warningChooser:Have you received Application for Business/CUS*105 from 6431030')</value>
+      <webElementGuid>96c38149-37b1-459f-991a-ba38bf6b38a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECEIVEDNOT RECEIVED</value>
+      <webElementGuid>861bb31c-0ff7-4a13-a544-2790f6b7fcf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warningChooser:Have you received Application for Business/CUS*105 from 6431030&quot;)</value>
+      <webElementGuid>ee8d5513-ca6a-4763-8e9d-97db6cec4afc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[4]/td[3]/select</value>
+      <webElementGuid>9321bb45-2cf1-4421-b635-89c835e6a284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='warningChooser:Have you received Application for Business/CUS*105 from 6431030']</value>
+      <webElementGuid>75ed2c35-740a-4e08-a1ea-bb721590c453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Application for Business/CUS*105 from 6431030'])[1]/following::select[1]</value>
+      <webElementGuid>6107ecc7-926d-48e5-9f28-4a3344af9954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Cert of Business Name Registration/CUS*105 from 6431030'])[1]/following::select[2]</value>
+      <webElementGuid>258ae4a6-75ab-4560-8149-49e2f117c838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Mayors Permit/CUS*105 from 6431030'])[1]/preceding::select[1]</value>
+      <webElementGuid>0301c1cb-0b8f-458a-8e32-4e66dc7715d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept Overrides'])[1]/preceding::select[2]</value>
+      <webElementGuid>b9348c6c-0cd4-4de0-becc-4ff338260455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/select</value>
+      <webElementGuid>a2b6b3c0-c7c9-4ba5-ad7f-3aae1903a1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'warningChooser:Have you received Application for Business/CUS*105 from 6431030' and @id = 'warningChooser:Have you received Application for Business/CUS*105 from 6431030' and (text() = 'RECEIVEDNOT RECEIVED' or . = 'RECEIVEDNOT RECEIVED')]</value>
+      <webElementGuid>f9a57dc7-3791-4004-b552-e045d2a22b73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

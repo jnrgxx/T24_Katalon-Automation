@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auth Passbook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>374af103-97a4-43b7-bd9e-49e9a69b1fc8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac604e29-14f3-442a-8307-f62c3abe3dae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dcd87a8e-acde-46c7-9ce0-7cf5ae307364</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7b0d166-ce2f-40f2-97d4-ca3ca9c4e6ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac604e29-14f3-442a-8307-f62c3abe3dae</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dcd87a8e-acde-46c7-9ce0-7cf5ae307364</id>
+      <masked>false</masked>
+      <name>START_DATE</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7b0d166-ce2f-40f2-97d4-ca3ca9c4e6ee</id>
+      <masked>false</masked>
+      <name>END_DATE</name>
+   </variable>
+</TestCaseEntity>

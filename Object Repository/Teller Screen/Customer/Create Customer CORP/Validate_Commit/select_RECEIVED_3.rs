@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RECEIVED_3</name>
+   <tag></tag>
+   <elementGuidId>a982af3b-1653-4912-93b2-25978e6e8661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[3]/td[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c49ecb60-8309-4320-b253-747e84d388cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warningbox</value>
+      <webElementGuid>f8f4a00a-7f41-44bb-980d-7fe61f0ccb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>dd30e8e1-a5e8-46de-8d69-267d403ac45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030</value>
+      <webElementGuid>de0e696f-4167-444c-b892-095fc1b23614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030</value>
+      <webElementGuid>533830fc-267b-41f4-a388-1ea1a52f81e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>warningid</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>3d1a994b-4575-44f1-b849-dc16393ffe4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:changeWarning('warningCaption:Have you received Cert of Business Name Registration/CUS*105 from 6431030', 'warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030')</value>
+      <webElementGuid>0c7aa316-4e32-4dfe-b19e-2874d8e043c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECEIVEDNOT RECEIVED</value>
+      <webElementGuid>7d57f77f-fa7d-4eb9-a43d-41b7ede70b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030&quot;)</value>
+      <webElementGuid>9c9fa5b7-2061-4b86-9925-4dc8d18e7474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr[3]/td/table/tbody/tr[3]/td[3]/select</value>
+      <webElementGuid>817e790c-134f-40b4-9e56-d4626a3146e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030']</value>
+      <webElementGuid>ebfced3f-a771-407c-9933-1e8cb36cd9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Cert of Business Name Registration/CUS*105 from 6431030'])[1]/following::select[1]</value>
+      <webElementGuid>4ee29c02-ee35-4184-9e65-e332688ccf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Acceptable ID.2/CUS*105 from 6431030'])[1]/following::select[2]</value>
+      <webElementGuid>5bbf64e5-abd0-40a8-ba69-4445ac20ff26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Application for Business/CUS*105 from 6431030'])[1]/preceding::select[1]</value>
+      <webElementGuid>cca6d0b3-8039-41ae-bc31-a2127e54da43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Have you received Mayors Permit/CUS*105 from 6431030'])[1]/preceding::select[2]</value>
+      <webElementGuid>a159641e-e61a-4c10-8cba-756f16d09357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/select</value>
+      <webElementGuid>1e4d9e19-30e7-494f-aaba-baedc42ea181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030' and @id = 'warningChooser:Have you received Cert of Business Name Registration/CUS*105 from 6431030' and (text() = 'RECEIVEDNOT RECEIVED' or . = 'RECEIVEDNOT RECEIVED')]</value>
+      <webElementGuid>3690b307-e046-4e2d-ae4f-81d1be747d3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

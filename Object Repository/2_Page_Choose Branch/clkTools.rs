@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clkTools</name>
+   <tag></tag>
+   <elementGuidId>33422812-3c4a-4c02-9442-dfc56312c52b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>xpath1666850340481[count(. | //DIV[@ref_element = 'Object Repository/2_Page_Main Page/frameClktools']) = count(//DIV[@ref_element = 'Object Repository/2_Page_Main Page/frameClktools'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pane_']/div/div/table/tbody/tr/td[2]/a[contains(text(),'Tools')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>7fe6ca3f-fc99-4416-904f-bccabe0daa24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1666850340481</value>
+      <webElementGuid>baa92547-164b-4bc4-aa96-a120b7027197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/2_Page_Choose Branch/frameClktools</value>
+      <webElementGuid>c36ef1fd-a56a-4d53-b0cb-de6e7a219447</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

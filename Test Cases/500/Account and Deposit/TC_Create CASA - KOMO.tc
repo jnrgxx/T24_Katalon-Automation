@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create CASA - KOMO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04cc478f-3c0d-4c7a-90fc-442a2bb24d22</testCaseGuid>
+</TestCaseEntity>

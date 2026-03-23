@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Passbook_Reprinting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>015cd484-b7fd-4829-a7e8-1a80faefc897</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec491d5f-f41f-41be-9211-925c6ca27df7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77b3afd1-e2e5-4c2e-ab85-34292edb2caf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3d2e02c-27a8-4198-900c-afb3f443c7ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec491d5f-f41f-41be-9211-925c6ca27df7</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77b3afd1-e2e5-4c2e-ab85-34292edb2caf</id>
+      <masked>false</masked>
+      <name>START_DATE</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3d2e02c-27a8-4198-900c-afb3f443c7ab</id>
+      <masked>false</masked>
+      <name>END_DATE</name>
+   </variable>
+</TestCaseEntity>

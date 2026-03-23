@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>frame_Capture</name>
+   <tag></tag>
+   <elementGuidId>c0dd63a4-b59f-46cc-8c57-558e42ab91f1</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_SetRemove Posting Restrict for Cus - NEWSIT/frame_Capture object_Blank100355147702.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_SetRemove Posting Restrict for Cus - NEWSIT/frame_Capture object_Blank100355147702.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[1]/frameset[1]/frame[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//frame[@src = '../html/blank_enrichment.html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Blank100355147702</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>frame</value>
+      <webElementGuid>62120b85-8f4c-4094-84ef-2cbda02015df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>bdfa006d-055d-43ac-9733-127d8033e5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../html/blank_enrichment.html</value>
+      <webElementGuid>a4d0eade-f066-40d9-a519-c18acfe2e345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//frameset/frame[2]</value>
+      <webElementGuid>cd54a509-4db4-4bf5-8c45-5077a298797d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//frame[@src = '../html/blank_enrichment.html']</value>
+      <webElementGuid>e71c4122-49d6-49d9-96aa-3b36ced7dbad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

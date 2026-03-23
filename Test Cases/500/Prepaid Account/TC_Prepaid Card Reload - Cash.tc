@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Prepaid Card Reload - Cash</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fc96207-64e4-46be-a34d-74537798f38b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a336e152-160f-46ce-8e05-8c16bedac970</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af1cd4d6-cbcf-45d5-95c9-1e8aaceecc58</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a336e152-160f-46ce-8e05-8c16bedac970</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af1cd4d6-cbcf-45d5-95c9-1e8aaceecc58</id>
+      <masked>false</masked>
+      <name>AMOUNT</name>
+   </variable>
+</TestCaseEntity>

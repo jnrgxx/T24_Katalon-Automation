@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Authorize Peso Cash</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>378897a3-c5a3-4d29-afce-0731349121b7</testSuiteGuid>
+   <testCaseLink>
+      <guid>a10e6089-056e-431e-90ea-143a9cd265d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ade56fba-5f33-4593-827d-2f094f9b41b5</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ade56fba-5f33-4593-827d-2f094f9b41b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ade56fba-5f33-4593-827d-2f094f9b41b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>29cfe6ee-5a9f-47ff-af6d-3e6003446a4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e0a3f43a-6e97-499d-9b6c-dc617c258d69</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Select Branch</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>252ffba9-418f-4331-b37b-cbccad48262f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Input_Command_Value</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2ca865a8-b12d-4eef-a2c8-af8bb2ba659d</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>5-5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Input Command Value</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2ca865a8-b12d-4eef-a2c8-af8bb2ba659d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HMM</value>
+         <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>05a07eb8-8db1-4a40-90f9-e13ef847c4c4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/515/TC_Service_Manager</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b356df14-e2b2-4a85-b499-c0b63c0f8b20</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Menu - Service Manager</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b356df14-e2b2-4a85-b499-c0b63c0f8b20</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MANAGER_MENU</value>
+         <variableId>daabaa8e-adfd-4cd4-b718-3c20bdc0d2a1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b356df14-e2b2-4a85-b499-c0b63c0f8b20</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MANAGER_SUB_MENU</value>
+         <variableId>bf2021ef-34e0-4017-babe-e606a438d745</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bca6b0c8-d86d-4ddb-b8a7-309c5acdd9f6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/515/Account and Deposit/TC_Authorize Account in Overview</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>13a4f6d1-7c0b-475d-839b-217a5465aed2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Cash Deposit</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6a2ec333-e84c-4546-b153-91ba1367b626</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13a4f6d1-7c0b-475d-839b-217a5465aed2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIF</value>
+         <variableId>221148a3-cfba-41ab-8d50-57345a30b241</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13a4f6d1-7c0b-475d-839b-217a5465aed2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ACCOUNT_NUMBER</value>
+         <variableId>5b547921-bfd7-4142-86f8-54ae70d97018</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13a4f6d1-7c0b-475d-839b-217a5465aed2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PRODUCT</value>
+         <variableId>0d73fe63-a1ba-4b39-a36a-5b82fa8914b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>588c4b68-a102-475d-a4b4-3f0ad0c62c6b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Signoff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

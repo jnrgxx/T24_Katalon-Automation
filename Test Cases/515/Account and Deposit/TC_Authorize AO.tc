@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Authorize AO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f954ba60-4fc1-4f1d-8b00-279e0d8ed907</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20c4024c-142a-4c16-a54b-36e6e600cfff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e09e680-4ca8-471d-90e1-e6b871809f85</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b8625c3-0c5f-479a-9f35-5c07145c57bd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Authorised'</defaultValue>
+      <description></description>
+      <id>20c4024c-142a-4c16-a54b-36e6e600cfff</id>
+      <masked>false</masked>
+      <name>TAB</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e09e680-4ca8-471d-90e1-e6b871809f85</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b8625c3-0c5f-479a-9f35-5c07145c57bd</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+</TestCaseEntity>

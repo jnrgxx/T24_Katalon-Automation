@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_group</name>
+   <tag></tag>
+   <elementGuidId>93e57198-1223-41af-89df-9d7d8840fe69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr/td[text()=&quot;${group}&quot;]/ancestor::node()[1]/td/a/img[@src=&quot;../plaf/images/default/enquiry/drilldown/right.arrow.gif&quot; and @alt = 'Products' and @title = 'Products']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr/td[text()=&quot;${group}&quot;]/ancestor::node()[1]/td/a/img[@src=&quot;../plaf/images/default/enquiry/drilldown/right.arrow.gif&quot;][count(. | //*[@ref_element = 'Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_ProductGroups']) = count(//*[@ref_element = 'Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_ProductGroups'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e9766c09-77ee-4b18-9a59-258b0a7f29f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr/td[text()=&quot;${group}&quot;]/ancestor::node()[1]/td/a/img[@src=&quot;../plaf/images/default/enquiry/drilldown/right.arrow.gif&quot;]</value>
+      <webElementGuid>580b1d02-932c-48c0-9d04-abd8b771a2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../plaf/images/default/enquiry/drilldown/right.arrow.gif</value>
+      <webElementGuid>57cc3ff0-8ed6-4687-a977-c9b3e887d745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_ProductGroups</value>
+      <webElementGuid>eec6d730-8257-462d-b95d-95df2f1cc48d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TSCORE-00002 - Authorize Customer CORP</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>36247860-842a-4505-8718-2ca89e447977</testSuiteGuid>
+   <testCaseLink>
+      <guid>bcfe6e18-3bb5-4bf3-b3c3-c8f753e90073</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>45ad4610-89bd-495a-9f1a-d66472571063</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>15</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>45ad4610-89bd-495a-9f1a-d66472571063</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>45ad4610-89bd-495a-9f1a-d66472571063</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>45ad4610-89bd-495a-9f1a-d66472571063</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>T24URL</value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>34179e68-9ab6-411f-b590-bb618f110d8c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0065cb10-0e16-420e-96e8-162fcc847e49</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Select Branch</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0065cb10-0e16-420e-96e8-162fcc847e49</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BRANCH</value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6e8cb15e-e66f-49d9-a0ad-064939397199</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Input_Command_Value</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>afebb448-56ae-47a5-9ece-cc6c027b33a1</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>5-5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Input Command Value</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>afebb448-56ae-47a5-9ece-cc6c027b33a1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HMM</value>
+         <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d974d5cc-d2be-41e0-a043-ac2ef931484a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/515/Customer/TC_Authorize or Delete Customer</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9ebc3b09-a6c3-470f-9fe7-7c557bea7540</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Authorize Customer CORP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9ebc3b09-a6c3-470f-9fe7-7c557bea7540</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIF</value>
+         <variableId>d0e2fb18-4623-442c-a3d0-895bb3ca9e08</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1164a994-085c-4efb-bd7a-7453ff03c929</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/515/Customer/TC_CUS S</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>15730f59-00d5-496c-929f-2f3f49bec307</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Authorize Customer CORP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f47d2091-cc41-49c4-ae90-0b6a8bb8e4e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>15730f59-00d5-496c-929f-2f3f49bec307</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIF</value>
+         <variableId>7f207ecc-7b15-404a-a00f-179ddcb586ea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>acc93f13-d836-4a73-8e9d-1c7423b10e50</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Signoff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

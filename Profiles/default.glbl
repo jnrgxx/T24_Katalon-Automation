@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['', 'ACN74945', 'JCG65808']</initValue>
+      <name>makerusername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://172.16.248.100:8480/EWBR13CLOUDSIT/servlet/BrowserServlet'</initValue>
+      <name>CLOUDSIT</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

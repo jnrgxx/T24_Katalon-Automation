@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputAmount</name>
+   <tag></tag>
+   <elementGuidId>ac91701f-5b5a-4d9f-9dbc-0a37feab2900</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'fieldName:AMOUNT']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='fieldName:AMOUNT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>82f35d92-b01f-44db-b383-64196448d832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fieldName:AMOUNT</value>
+      <webElementGuid>26250645-52bb-4125-8620-d462ac2df7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='fieldName:AMOUNT']</value>
+      <webElementGuid>849cdeab-f4dd-49d6-a75f-66441d3269a4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

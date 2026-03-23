@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reversal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fed4bf50-e618-432e-af72-7370b7df825c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac72968e-f91b-435f-99de-8ee7f439d6cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac72968e-f91b-435f-99de-8ee7f439d6cd</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+</TestCaseEntity>

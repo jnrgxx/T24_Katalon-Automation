@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_PostingRestrict</name>
+   <tag></tag>
+   <elementGuidId>92561d6a-3470-450e-892c-7e1a7daa56df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Posting Restrict']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Posting Restrict&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>83e3cbef-e198-4d77-9ed2-f8a79e18f12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../plaf/images/default/enquiry/drilldown/action.gif</value>
+      <webElementGuid>b944a84c-8d31-49ae-9beb-e7e99439f43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Posting Restrict</value>
+      <webElementGuid>4cd36bd7-9606-400d-94e7-cbf6d8728a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Posting Restrict</value>
+      <webElementGuid>5951e1a6-a19c-4e8c-835f-f18fcf97bf4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;r1&quot;)/td[@class=&quot;enqdrilldowncell enqdrilldowncell_CUSTPOSTRESTRICT&quot;]/a[1]/img[1]</value>
+      <webElementGuid>fb605c9d-4873-4c7f-b2ab-effb43b9cbdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='r1']/td[5]/a/img</value>
+      <webElementGuid>75b013fd-c14f-4108-b683-8ea74fee36d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Posting Restrict']</value>
+      <webElementGuid>e2ec6ed7-4d5f-47db-94ce-816baca39134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/img</value>
+      <webElementGuid>f1dfcd07-92bb-4566-b8a5-8bd5d491a214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../plaf/images/default/enquiry/drilldown/action.gif' and @alt = 'Posting Restrict' and @title = 'Posting Restrict']</value>
+      <webElementGuid>5d82a7c3-261b-4cf6-9e49-fadfafc2a8a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

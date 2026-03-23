@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_category</name>
+   <tag></tag>
+   <elementGuidId>e9db938c-fc12-43cd-afc5-6f9f74524eb0</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr/td[text()=&quot;${category}&quot;]/a/img[@alt = 'Expand group' and @src = '../plaf/images/default/menu/menu_down.gif']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr/td[text()=&quot;${category}&quot;]/a/img[@alt = &quot;Expand group&quot;][count(. | //*[@ref_element = 'Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_ProductGroups']) = count(//*[@ref_element = 'Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_ProductGroups'])]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>702a61f7-fffa-4e2e-b837-696705b3f68e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Expand group</value>
+      <webElementGuid>de4b751c-b10d-49f4-9ee7-8bbddaeffa2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../plaf/images/default/menu/menu_down.gif</value>
+      <webElementGuid>312010d0-8d86-419f-9558-a14d84f8fee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr/td[text()=&quot;${category}&quot;]/a/img[@alt = &quot;Expand group&quot;]</value>
+      <webElementGuid>7a02bf65-550a-4b6d-af84-6e46a2f438fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Teller Screen/Account and Deposit/ProductCatalog/frame_ProductGroups</value>
+      <webElementGuid>8927afee-5b55-4e06-9c5f-a77417a2470c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

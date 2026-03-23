@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Authorize Set Posting Restriction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b72962e-2a16-41b2-9a79-1acf2cdbbf8f</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0043c0b6-4a30-4bf4-874e-6a7ccc9c7fe0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Authorize Customer CORP</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0043c0b6-4a30-4bf4-874e-6a7ccc9c7fe0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>CIF</value>
+      <variableId>56d349a9-170c-47af-86a1-3cb250463615</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56d349a9-170c-47af-86a1-3cb250463615</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+</TestCaseEntity>

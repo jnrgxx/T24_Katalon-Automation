@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Prepaid Card input Legacy ID</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>cd9ab318-5fd0-46e3-9844-7208e1952b59</testSuiteGuid>
+   <testCaseLink>
+      <guid>76a10da2-276b-4b27-94f0-a6967d778f04</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9a9b5dc4-fbaf-457c-93a4-4561d67772c6</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9a9b5dc4-fbaf-457c-93a4-4561d67772c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9a9b5dc4-fbaf-457c-93a4-4561d67772c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>54a89fae-5259-4894-9cfb-cebaaf8014ca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>db4f44a1-81d9-4b68-b555-1f512270f21a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Input_Command_Value</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>962ce8c3-7e3f-4241-92db-a2e8dd083e60</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Input Command Value</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>962ce8c3-7e3f-4241-92db-a2e8dd083e60</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HMM</value>
+         <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2c296058-5bc7-45e5-ab2a-f5eae5fdeda8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/500/TC_Teller_Screen</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0f2402c4-fd60-4d5f-91c1-d42d498f95bc</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Menu - Teller</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0f2402c4-fd60-4d5f-91c1-d42d498f95bc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TELLER_MENU</value>
+         <variableId>94aadf10-cca9-42ec-97d5-1c4a0feb2b5f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0f2402c4-fd60-4d5f-91c1-d42d498f95bc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TELLER_SUB_MENU</value>
+         <variableId>fa1d4709-a3d0-4025-8f29-9a2f77908748</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c751ac3b-5891-47d9-8769-adf2f4136e59</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/500/Account and Deposit/TC_Prepaid Card input Legacy ID</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7334ea14-708c-463d-a3b8-88d6abe0077a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>27-48</value>
+         </iterationEntity>
+         <testDataId>Data Files/Prepaid Legacy ID</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7334ea14-708c-463d-a3b8-88d6abe0077a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIF</value>
+         <variableId>5e838f28-d08c-4d2c-8ded-438fdba8d839</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7334ea14-708c-463d-a3b8-88d6abe0077a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ACCOUNT_NUMBER</value>
+         <variableId>8eccdf31-16c7-4c70-bc04-a1d4d237ba2b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7334ea14-708c-463d-a3b8-88d6abe0077a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LEGACY_ID</value>
+         <variableId>03be25c1-8388-4b2c-a5c5-efe7557651a0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d7babd23-6735-4b85-9f6d-4d318221c408</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Signoff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

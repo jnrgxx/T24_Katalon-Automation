@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_commit a deal</name>
+   <tag></tag>
+   <elementGuidId>2b4b8f6d-2c75-4b71-b844-ca55e70e943f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#banner100064956801</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title='Commit the deal']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'banner100064956801' and @name = 'banner100064956801' and @src = '../jsps/genrequest.jsp?&amp;routineName=OS.NEW.USER&amp;routineArgs=BANNER&amp;skin=default&amp;compId=PH0010001&amp;usrRole=&amp;compScreen=COMPOSITE.SCREEN_EWB00975_100064956803&amp;contextRoot=&amp;windowName=banner100064956801&amp;user=EWB00975&amp;WS_replaceAll=&amp;WS_parentComposite=']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>frame</value>
+      <webElementGuid>f0c0598b-d416-4aec-a133-0c5aa36c812d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>banner100064956801</value>
+      <webElementGuid>4c0515df-1692-4990-b457-adc95739b32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>banner100064956801</value>
+      <webElementGuid>3ceed7b7-e924-457d-b64f-c7affbae528b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>02dd9dd2-bb13-43bc-9fe1-8311931d885a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../jsps/genrequest.jsp?&amp;routineName=OS.NEW.USER&amp;routineArgs=BANNER&amp;skin=default&amp;compId=PH0010001&amp;usrRole=&amp;compScreen=COMPOSITE.SCREEN_EWB00975_100064956803&amp;contextRoot=&amp;windowName=banner100064956801&amp;user=EWB00975&amp;WS_replaceAll=&amp;WS_parentComposite=</value>
+      <webElementGuid>9f7f03ed-3784-4b3b-909b-edeee60b54ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;banner100064956801&quot;)</value>
+      <webElementGuid>45822084-b08d-4626-bed9-0f648b648d4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//frame[@id='banner100064956801']</value>
+      <webElementGuid>9486bd73-677e-409f-b59a-3a6749f24b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//frame</value>
+      <webElementGuid>933cb883-d56b-4a85-a820-213c079fb4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//frame[@id = 'banner100064956801' and @name = 'banner100064956801' and @src = '../jsps/genrequest.jsp?&amp;routineName=OS.NEW.USER&amp;routineArgs=BANNER&amp;skin=default&amp;compId=PH0010001&amp;usrRole=&amp;compScreen=COMPOSITE.SCREEN_EWB00975_100064956803&amp;contextRoot=&amp;windowName=banner100064956801&amp;user=EWB00975&amp;WS_replaceAll=&amp;WS_parentComposite=']</value>
+      <webElementGuid>01ab87a4-7bb8-4ea2-a68f-cbebba515ad1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

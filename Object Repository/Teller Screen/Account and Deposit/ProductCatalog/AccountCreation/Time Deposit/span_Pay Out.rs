@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pay Out</name>
+   <tag></tag>
+   <elementGuidId>7cc864ee-c798-4b52-b0ba-a7d3ece19638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='headtab_AA.ARR.SETTLEMENT,AA.BOTHAA23198N9JDV-SETTLEMENT-20230717.1']/tbody/tr/td[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c038970-cb4e-4ce5-b480-a32bce58e4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Out</value>
+      <webElementGuid>094b8eed-390e-491a-8be0-c7f140fd74e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headtab_AA.ARR.SETTLEMENT,AA.BOTHAA23198N9JDV-SETTLEMENT-20230717.1&quot;)/tbody[1]/tr[1]/td[2]/a[@class=&quot;nonactive-tab&quot;]/span[1]</value>
+      <webElementGuid>2adc624a-ec9a-448b-a870-49e173bca687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='headtab_AA.ARR.SETTLEMENT,AA.BOTHAA23198N9JDV-SETTLEMENT-20230717.1']/tbody/tr/td[2]/a/span</value>
+      <webElementGuid>61e3f262-ba1e-4ecb-9b54-acf0f53e9852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay In'])[1]/following::span[1]</value>
+      <webElementGuid>bb99cf23-0302-44c6-aa40-bd4eec845498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repayment Instructions'])[2]/following::span[2]</value>
+      <webElementGuid>baa6fd31-db70-4ad2-b0cf-7d753e61fd17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Type'])[1]/preceding::span[1]</value>
+      <webElementGuid>d6159e15-40b3-4f31-9217-ed8faa60f6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::span[2]</value>
+      <webElementGuid>86696f37-54b6-4524-8def-f35cec1e2959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay Out']/parent::*</value>
+      <webElementGuid>f8b3e57a-11c6-4271-8f9f-f321a76c3ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[11]/div/div/form/div[3]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a/span</value>
+      <webElementGuid>f29baa15-9a92-4940-bd58-0beb25371ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pay Out' or . = 'Pay Out')]</value>
+      <webElementGuid>7bae15ab-3e2f-4d4e-a0f8-529f1db3711f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

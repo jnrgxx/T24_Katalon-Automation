@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Lock_Hold amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17cd50ec-abaa-4436-a60a-04bd5443a870</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ddc78ba-f639-42ac-8922-1a4392bb6d33</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f120dc67-1ca0-4f63-9cf9-045ee6aeeb34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2afdfbf9-8379-4e5b-aa8f-16d02450ba0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ddc78ba-f639-42ac-8922-1a4392bb6d33</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f120dc67-1ca0-4f63-9cf9-045ee6aeeb34</id>
+      <masked>false</masked>
+      <name>DESCRIPTION</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2afdfbf9-8379-4e5b-aa8f-16d02450ba0f</id>
+      <masked>false</masked>
+      <name>LOCKED_AMOUNT</name>
+   </variable>
+</TestCaseEntity>

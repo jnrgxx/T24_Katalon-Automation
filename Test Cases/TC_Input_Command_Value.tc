@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Input_Command_Value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2d317fb-b4e1-4541-8838-8aed8a5f4831</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6a2d829b-53c7-4e79-b730-2bc3b293f8b6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Input Command Value</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6a2d829b-53c7-4e79-b730-2bc3b293f8b6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>HMM</value>
+      <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</id>
+      <masked>false</masked>
+      <name>HMM</name>
+   </variable>
+</TestCaseEntity>

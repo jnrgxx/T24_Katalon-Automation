@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Creation_of_Joint_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4aed75ea-3c2a-40df-a7e6-22dd6ad2694a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b2f5680-7d89-40d7-bb15-dbcf8e4d88f1</id>
+      <masked>false</masked>
+      <name>CIF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc59a08e-fa77-4b67-92d7-e83678e743d2</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7beb0589-1a63-44db-b272-ef763b9146a8</id>
+      <masked>false</masked>
+      <name>JOINT_CIF</name>
+   </variable>
+</TestCaseEntity>

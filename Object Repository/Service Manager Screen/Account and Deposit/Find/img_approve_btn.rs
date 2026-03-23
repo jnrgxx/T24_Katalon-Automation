@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_approve_btn</name>
+   <tag></tag>
+   <elementGuidId>bd221b45-fa92-4e04-bd2b-8df099a1937e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@alt = 'Select Drilldown' and @src = '../plaf/images/default/menu/go.gif']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/div[3]/div[1]/form[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[6]/table[1]/tbody[1]/tr[1]/td[2]/a[1]/img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Select Drilldown</value>
+      <webElementGuid>5a3374df-4c22-416f-9644-ce53ef097d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../plaf/images/default/menu/go.gif</value>
+      <webElementGuid>3ce53005-5e6e-4298-8c3c-16e0156d0695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>409f7115-8073-4f3f-a0c1-84dc7c762037</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

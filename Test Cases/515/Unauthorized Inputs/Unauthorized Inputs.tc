@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unauthorized Inputs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29697c55-5982-4895-99ed-d1338174a022</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9280dce2-1588-421c-b78a-c47c0ac91b56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58c70da8-ede4-4c83-a44f-5b9ac30fd990</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2150456c-1139-4d85-a430-e29f1c94febb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9280dce2-1588-421c-b78a-c47c0ac91b56</id>
+      <masked>false</masked>
+      <name>ACCOUNT_NUMBER</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58c70da8-ede4-4c83-a44f-5b9ac30fd990</id>
+      <masked>false</masked>
+      <name>AMOUNT</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unauthorized Inputs'</defaultValue>
+      <description></description>
+      <id>2150456c-1139-4d85-a430-e29f1c94febb</id>
+      <masked>false</masked>
+      <name>TABS</name>
+   </variable>
+</TestCaseEntity>

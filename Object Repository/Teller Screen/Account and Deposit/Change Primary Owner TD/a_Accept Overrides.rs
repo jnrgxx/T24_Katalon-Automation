@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accept Overrides</name>
+   <tag></tag>
+   <elementGuidId>6357e78b-13ad-49aa-a4e8-5059a90818da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Accept Overrides')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#errorImg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37bdec90-2a5e-4f07-a82f-6ebfd1bfe608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:commitOverrides()</value>
+      <webElementGuid>f30f09b5-687d-43ba-8276-87970dce7d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>308a106b-6f59-43f9-beaf-05b98e86673d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>errorImg</value>
+      <webElementGuid>e4a90e01-c008-4208-b199-90f56c1e0769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept Overrides</value>
+      <webElementGuid>550d5800-30d3-4456-bae4-01ef60ec0a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;errorImg&quot;)</value>
+      <webElementGuid>084b084d-cb6d-46b6-8e72-71144e3147aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='error_box']/table/tbody/tr/td/table/tbody/tr/td/a</value>
+      <webElementGuid>a7ab44cb-5140-44e5-8186-fd286b5d441b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='errorImg']</value>
+      <webElementGuid>7266b83a-2101-4cb5-b71d-ad3b03489b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Accept Overrides')]</value>
+      <webElementGuid>6b64e4fb-81b2-4b88-889a-7b041fcdde47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2004-LAS PINAS)'])[1]/following::a[1]</value>
+      <webElementGuid>70490e9d-8fdc-4bed-bfd6-bf23355bde4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AAACT231983MYTHFPM'])[1]/following::a[1]</value>
+      <webElementGuid>52381bf1-55fe-41ec-b4f7-20841e8838c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer has been changed for the account'])[1]/preceding::a[1]</value>
+      <webElementGuid>3bccedfc-bfdf-4bf1-a9df-5b5c3e135fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arrangement Activity'])[2]/preceding::a[1]</value>
+      <webElementGuid>816b8003-ad7f-4a26-9497-d7a7af7a628a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept Overrides']/parent::*</value>
+      <webElementGuid>908842f3-ae2b-4d2c-99a2-168e438b8580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:commitOverrides()')]</value>
+      <webElementGuid>47e578f1-32f6-4ede-8fdb-e7d1904b2f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/td/table/tbody/tr/td/a</value>
+      <webElementGuid>4153352d-d780-4d39-9908-84918997c2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:commitOverrides()' and @id = 'errorImg' and (text() = 'Accept Overrides' or . = 'Accept Overrides')]</value>
+      <webElementGuid>f2d5e788-0835-45ce-8008-437ea007cb83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

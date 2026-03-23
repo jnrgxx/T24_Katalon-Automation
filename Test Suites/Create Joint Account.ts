@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Create Joint Account</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>954fbc5c-4e64-46c1-b65b-119761d7d9e4</testSuiteGuid>
+   <testCaseLink>
+      <guid>96729275-5690-483b-bf56-9217ff355914</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5c9a7b81-cfce-4ff9-badf-dc345e9649db</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5c9a7b81-cfce-4ff9-badf-dc345e9649db</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>d36edea8-5e1a-4de3-82d0-0061d200d78f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5c9a7b81-cfce-4ff9-badf-dc345e9649db</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>b198ebb7-de9d-43db-9b7a-8f1ab9bfe05f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>da254404-607c-41bb-8786-4e3c2eda6ede</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cf6d7335-2920-4aa7-828e-6823b707c285</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Choose_Branch</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>63c16237-03c6-40fd-b000-aa277ec52348</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bbdb0499-8fab-4bb2-ac59-399e178052a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Input_Command_Value</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9ad0581b-9672-44a4-8a5c-688b2e668286</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Input Command Value</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9ad0581b-9672-44a4-8a5c-688b2e668286</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HMM</value>
+         <variableId>788d54e2-7d72-4a2c-97d4-6c0ae54e85b7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>554b880e-3335-447f-bda2-9befb1a5075c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/500/TC_Teller_Screen</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>efb53185-8e88-408a-b8af-4aaae0dc7b2d</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Menu - Teller</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>efb53185-8e88-408a-b8af-4aaae0dc7b2d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TELLER_MENU</value>
+         <variableId>94aadf10-cca9-42ec-97d5-1c4a0feb2b5f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>efb53185-8e88-408a-b8af-4aaae0dc7b2d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TELLER_SUB_MENU</value>
+         <variableId>fa1d4709-a3d0-4025-8f29-9a2f77908748</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f990508b-5b2e-4c6b-8351-edcdc67b3eb0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/500/Account and Deposit/TC_Creation_of_Joint_Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f587b338-0e85-422b-91e2-47fc672d7348</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Create Joint Account</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f587b338-0e85-422b-91e2-47fc672d7348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIF</value>
+         <variableId>2b2f5680-7d89-40d7-bb15-dbcf8e4d88f1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f587b338-0e85-422b-91e2-47fc672d7348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ACCOUNT_NUMBER</value>
+         <variableId>bc59a08e-fa77-4b67-92d7-e83678e743d2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f587b338-0e85-422b-91e2-47fc672d7348</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>JOINT_CIF</value>
+         <variableId>7beb0589-1a63-44db-b272-ef763b9146a8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

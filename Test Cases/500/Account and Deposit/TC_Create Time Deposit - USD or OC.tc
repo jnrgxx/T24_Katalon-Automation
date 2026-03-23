@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create Time Deposit - USD or OC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1052342-7ba4-4138-97ae-5a1d728a396a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e36d99cd-6952-404f-a5d2-6443cfc88637</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c021af9b-87a0-4bae-8c3f-f5b996001471</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1000000'</defaultValue>
+      <description></description>
+      <id>e36d99cd-6952-404f-a5d2-6443cfc88637</id>
+      <masked>false</masked>
+      <name>AMOUNT</name>
+   </variable>
+   <variable>
+      <defaultValue>'1Y'</defaultValue>
+      <description></description>
+      <id>c021af9b-87a0-4bae-8c3f-f5b996001471</id>
+      <masked>false</masked>
+      <name>TERM</name>
+   </variable>
+</TestCaseEntity>
